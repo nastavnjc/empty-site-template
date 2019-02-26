@@ -1,5 +1,5 @@
       <footer class="pt-4 my-md-5 pt-md-5 border-top">
-        <div class="row">
+        <div class="row"style="width: 100%;">
           <div class="col">
             <i class="fas fa-signal"></i> <b>SITE <span style="color: skyblue;">name</span></b>
             <small class="d-block mb-3 text-muted">
